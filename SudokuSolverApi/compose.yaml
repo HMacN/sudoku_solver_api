@@ -1,0 +1,7 @@
+﻿services:
+  sudokusolverapi:
+    image: sudokusolverapi
+    build:
+      context: .
+      dockerfile: Dockerfile
+
