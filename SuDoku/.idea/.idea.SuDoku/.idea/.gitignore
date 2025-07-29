@@ -2,10 +2,10 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
+/.idea.SuDoku.iml
 /contentModel.xml
-/.idea.SudokuSolverApi.iml
-/projectSettingsUpdater.xml
 /modules.xml
+/projectSettingsUpdater.xml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
